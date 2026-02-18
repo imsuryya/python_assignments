@@ -98,17 +98,6 @@ python src/average_marks/driver/main.py < src/average_marks/test_input.txt
 python src/runner_up_score/driver/main.py < src/runner_up_score/test_input.txt
 ```
 
-## Solutions Implemented
-
-- **Average Marks** - Calculate student grade averages
-- **Runner-Up Score** - Find second maximum in a list
-- More solutions coming soon...
-
-## Requirements
-
-- Python 3.6+
-- NumPy (for NumPy challenges)
-
 ## Learning Resources
 
 - [Python Official Documentation](https://docs.python.org/3/)
